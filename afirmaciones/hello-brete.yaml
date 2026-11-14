@@ -1,0 +1,93 @@
+# Caso: Hello Brete (INA + Open English). Consultado 2026-11-13.
+# Ninguna afirmación es "verificado" todavía: falta el documento primario (SICOP, contrato, respuesta del INA).
+
+- id: hb-001
+  afirmacion: "El INA contrató al consorcio Say Pura Vida Open Education & Racsa (Open English y Racsa); el contrato se aprobó el 9 de marzo de 2026."
+  estado: reportado
+  fuentes:
+    - url: https://www.elfinancierocr.com/economia-y-politica/el-accidentado-camino-de-hello-brete-como-nacio-la/TFTY633CDNGRVMBBIC3CQXB35I/story/
+      tipo: secundaria
+      consultado: 2026-11-13
+  notas: "Falta el número de procedimiento y el contrato en SICOP."
+
+- id: hb-002
+  afirmacion: "El costo es de unos US$80 por licencia al año, con una meta de 500.000 licencias el primer año."
+  estado: reportado
+  fuentes:
+    - url: https://www.mep.go.cr/noticias/plataforma-gratuita-hello-brete-permitira-capacitar-hasta-500000-personas-ano-ingles
+      tipo: secundaria
+      consultado: 2026-11-13
+    - url: https://adiariocr.com/educacion/ina-ofrece-500-mil-licencias-open-english-para-aprender-ingles/
+      tipo: secundaria
+      consultado: 2026-11-13
+  notas: "Comunicado oficial, no el contrato. Falta saber si se paga por licencia asignada, activada o usada (solicitud 01)."
+
+- id: hb-003
+  afirmacion: "El contrato cuesta unos US$74 millones al año."
+  estado: sin-verificar
+  fuentes:
+    - url: https://delfino.cr/2026/05/la-estafa-de-open-english-y-demas-ocurrencias-del-gobierno-saliente
+      tipo: secundaria
+      consultado: 2026-11-13
+  notas: "Columna de opinión y declaración de una diputada. Contradice el máximo de ~US$40 M que implica hb-002."
+
+- id: hb-004
+  afirmacion: "En cuatro meses abandonaron 99.100 personas, el 48,5 % de 204.303 cupos habilitados (abandono = 15 días naturales sin conectarse)."
+  estado: reportado
+  fuentes:
+    - url: https://crhoy.com/nacionales/99-mil-usuarios-abandonaron-curso-de-open-english-en-4-meses-de-implementado/
+      tipo: secundaria
+      consultado: 2026-11-13
+  notas: "Dato atribuido al INA. Pedir la serie mensual (solicitud 02)."
+
+- id: hb-005
+  afirmacion: "Solo 525 de las personas que abandonaron volvieron al programa."
+  estado: reportado
+  fuentes:
+    - url: https://crhoy.com/nacionales/525-usuarios-volvieron-a-curso-de-open-english-de-los-99-mil-que-desertaron/
+      tipo: secundaria
+      consultado: 2026-11-13
+
+- id: hb-006
+  afirmacion: "Los documentos de la licitación tomaban como referencia una deserción del 18,9 % y fijaban una alerta en el 17 %."
+  estado: reportado
+  fuentes:
+    - url: https://www.elfinancierocr.com/economia-y-politica/se-puede-aprender-ingles-en-linea-revisamos-las/4RMZW3BGGJGLHKM6EYSS5WPHJM/story/
+      tipo: secundaria
+      consultado: 2026-11-13
+  notas: "Verificable en el cartel de SICOP."
+
+- id: hb-007
+  afirmacion: "El contrato no exige una garantía sobre el nivel de inglés con que salen las personas."
+  estado: reportado
+  fuentes:
+    - url: https://www.nacion.com/el-pais/gobierno-no-exige-garantia-a-plataforma-de-open/O65XKGWK7BDUFBETQNY2WB4AGE/story/
+      tipo: secundaria
+      consultado: 2026-11-13
+
+- id: hb-008
+  afirmacion: "El INA no hizo un estudio técnico de efectividad de la plataforma antes de adjudicar."
+  estado: reportado
+  fuentes:
+    - url: https://delfino.cr/2026/04/gobierno-habilita-plataforma-gratuita-para-aprender-ingles-a-traves-de-open-english
+      tipo: secundaria
+      consultado: 2026-11-13
+  notas: "Pedir los estudios previos (solicitud 03); si no existen, la respuesta lo confirma."
+
+- id: hb-009
+  afirmacion: "La Contraloría rechazó las objeciones a la licitación y confirmó la adjudicación; señaló que el modelo y el proveedor son responsabilidad del INA."
+  estado: reportado
+  fuentes:
+    - url: https://adiariocr.com/educacion/contraloria-aclara-que-la-contratacion-estatal-de-open-english-es-responsabilidad-del-ina/
+      tipo: secundaria
+      consultado: 2026-11-13
+  notas: "Buscar las resoluciones de la CGR (fuente primaria)."
+
+- id: hb-010
+  afirmacion: "Una moción para investigar el contrato en la Asamblea Legislativa se rechazó con 5 votos en contra y 4 a favor."
+  estado: reportado
+  fuentes:
+    - url: https://www.diarioextra.com/noticia/oficialismo-rechaza-abrir-investigacion-por-contrato-de-open-english/
+      tipo: secundaria
+      consultado: 2026-11-13
+  notas: "Verificable en las actas de la comisión (SIL de la Asamblea)."
